@@ -6,7 +6,7 @@ NIM : 312210490
 
 Kelas : TI.22.A5
 
-Mata Kuliah : Pemrograman Mobile
+Mata Kuliah : Bisnis Elektronik
 
 Tugas : E - commerce
 
